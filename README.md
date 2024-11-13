@@ -9,15 +9,16 @@ I am a third-year Computer Science student at the University of Trento with a st
 
 ## Languages Knowledge
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C%2b%2b&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=c%2b%2b&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java%2b%2b&logoColor=00599C)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=7F52FF)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![MatLab](https://img.shields.io/badge/-MatLab-000?&logo=MatLab)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+![C++](https://img.shields.io/badge/Code-C++-000?&logo=c%2b%2b&color=00599C&logoColor=00599C)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=3776AB&logoColor=3776AB)
+![C#](https://img.shields.io/badge/Code-CSharp-000?&logo=c%2b%2b&logoColor=dcdcdc&color=dcdcdc)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Java](https://img.shields.io/badge/Code-Java-000?&logo=Java%2b%2b&logoColor=00599C&color=FF0000)
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-000?&logo=Kotlin&logoColor=7F52FF&color=7F52FF)
+![SQL](https://img.shields.io/badge/Code-SQL-000?&logo=MySQL&logoColor=b0c4de&color=b0c4de)
+![MatLab](https://img.shields.io/badge/Framework-MatLab-000?&logo=MatLab&logoColor=ffa07a&color=ffa07a)
+![Dart](https://img.shields.io/badge/Code-Dart-000?&logo=Dart&logoColor=0175C2&color=0175c2)
+![React](https://img.shields.io/badge/Code-React-000?&logo=React&logoColor=00ced1&color=00ced1)
 
 ## Contact me
 - 📧 Email: [lorenzotessari2003@gmail.com](mailto:lorenzotessari2003@gmail.com)
