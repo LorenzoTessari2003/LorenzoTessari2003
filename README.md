@@ -1,13 +1,13 @@
-## Lorenzo Tessari GitHub Profile
-
-### Who am I?
+## Who am I?
 I am a third-year Computer Science student at the University of Trento with a strong passion for technology, particularly in app and software development. I have already completed several projects that utilize various programming languages and technologies, such as:
 
-### Projects
+
+## Projects
 - 📱 [FootLord](https://github.com/LorenzoTessari2003/FootLord) - A mobile game developed in Kotlin with Android Studio, where players take on the role of a football club manager, striving to lead the team to success. Further details are available in the dedicated repository.
 - 📱 [YouProject](https://github.com/LorenzoTessari2003/YouProject) - A social media style web application developed in React, using Node.js and MongoDB, where you can create and share your personal project, receive support and money from other users. Further details are available in the dedicated repository.
 
-### Languages Knowledge
+
+## Languages Knowledge
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C%2b%2b&logoColor=A8B9CC)
@@ -18,3 +18,5 @@ I am a third-year Computer Science student at the University of Trento with a st
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![MatLab](https://img.shields.io/badge/-MatLab-000?&logo=MatLab)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+
+
