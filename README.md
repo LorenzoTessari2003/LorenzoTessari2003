@@ -1,16 +1,22 @@
-## Hi there 👋
+## Lorenzo Tessari GitHub Profile
 
-<!--
-**LorenzoTessari2003/LorenzoTessari2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+I am a third-year Computer Science student at the University of Trento with a strong passion for technology, particularly in app and software development. I have already completed several projects that utilize various programming languages and technologies, such as:
 
-Here are some ideas to get you started:
+### FootLord
+Repository Footlord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### YouProject
+Descrizione YouPorject
+
+### Languages
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C%2b%2b&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=c%2b%2b&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java%2b%2b&logoColor=00599C)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=7F52FF)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![MatLab](https://img.shields.io/badge/-MatLab-000?&logo=MatLab)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
