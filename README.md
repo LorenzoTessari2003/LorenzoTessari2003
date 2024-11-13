@@ -4,7 +4,7 @@ I am a third-year Computer Science student at the University of Trento with a st
 
 ## Projects
 - 📱 [FootLord](https://github.com/LorenzoTessari2003/FootLord) - A mobile game developed in Kotlin with Android Studio, where players take on the role of a football club manager, striving to lead the team to success. Further details are available in the dedicated repository.
-- 📱 [YouProject](https://github.com/LorenzoTessari2003/YouProject) - A social media style web application developed in React, using Node.js and MongoDB, where you can create and share your personal project, receive support and money from other users. Further details are available in the dedicated repository.
+- 👥 [YouProject](https://github.com/LorenzoTessari2003/YouProject) - A social media style web application developed in React, using Node.js and MongoDB, where you can create and share your personal project, receive support and money from other users. Further details are available in the dedicated repository.
 
 
 ## Languages Knowledge
