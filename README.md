@@ -20,4 +20,4 @@ I am a third-year Computer Science student at the University of Trento with a st
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
 
 ## Contact me
-📧 Email:[lorenzotessari2003@gmail.com](mailto:lorenzotessari2003@gmail.com)
+- 📧 Email: [lorenzotessari2003@gmail.com](mailto:lorenzotessari2003@gmail.com)
