@@ -3,13 +3,13 @@
 ### Who am I?
 I am a third-year Computer Science student at the University of Trento with a strong passion for technology, particularly in app and software development. I have already completed several projects that utilize various programming languages and technologies, such as:
 
-### FootLord
-Repository Footlord
+### - FootLord
+[FootLord](https://github.com/LorenzoTessari2003/FootLord)
 
-### YouProject
-Descrizione YouPorject
+### - YouProject
+[Youproject](https://github.com/username/nome-repository)
 
-### Languages
+### Languages Knowledge
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C%2b%2b&logoColor=A8B9CC)
